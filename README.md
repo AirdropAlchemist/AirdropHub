@@ -15,6 +15,8 @@
 
 **🚀 MANTA Network is distributing 50,000,000 tokens!**
 
+[More Info Here](https://mirror.xyz/0xeff64A8FecAe1E195843A14d155cFB13a1a6eADA/PAbtWrZYXozgDwqU716sibz8aSmwn-rUFDmMP4ysa7k)
+
 🔹 **How to participate?**
 1. Check if your wallet is eligible on the official [MANTA Airdrop Website](https://airdrop.manta-network.sbs/) 🌊
 2. Claim your free tokens in just a few clicks!
