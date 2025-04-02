@@ -28,10 +28,11 @@
 | 🔥 Project                | 🎁 Reward        | 📅 Deadline   | 🔗 Link                                                 |
 |---------------------------|------------------|---------------|---------------------------------------------------------|
 | **MANTA Network**         | 50M Tokens       | 01/05/2025    | [Claim Now](https://airdrop.manta-network.sbs)         |
-| **Blum**                  | Tokens           | Q2 2025       | [Claim Now](https://blum.io/airdrop)                   |
+| **Rings Protocol**         | $S Tokens       | Q2 2025       | [Claim Now](https://app.rings.money/)                  |
+| **ChainGPT**         | $50,000 in $GTAI       | 16/04/2025       | [Claim Now](https://nft.chaingpt.org/events/gt-protocol-nft-giveaway)                  |
+| **Reactor**         | Points       | Ongoing       | [Claim Now](https://www.reactorfi.xyz/)                  |
+| **HyperSwap**         | $HYPE Tokens      | Ongoing       | [Claim Now](https://app.hyperswap.exchange/)                  |
 | **Pump.fun**              | Tokens           | Q2 2025       | [Claim Now](https://pump.fun/airdrop)                  |
-| **Agent 301**             | AGNT Tokens      | Q2 2025       | [Claim Now](https://agent301.io/airdrop)               |
-| **Liquidity Land**        | APY, Points      | Ongoing       | [Claim Now](https://liquidity.land/airdrop)            |
 | **Paradex**               | Points           | 31/07/2025    | [Claim Now](https://paradex.com/airdrop)               |
 | **Retro Bridge**          | Points           | Ongoing       | [Claim Now](https://retrobridge.io/airdrop)            |
 | **Ether.fi**              | Points           | Ongoing       | [Claim Now](https://ether.fi/airdrop)                  |
@@ -41,8 +42,6 @@
 | **RiscZero**              | Unknown Reward   | 16/03/2025    | [Claim Now](https://risczero.com/airdrop)              |
 | **Anoma**                 | Roles            | Ongoing       | [Claim Now](https://anoma.io/airdrop)                  |
 | **Sign — Orange Print**   | Unknown Reward   | Ongoing       | [Claim Now](https://sign.io/airdrop)                   |
-| **Linera — Galxe Campaign** | OAT             | 14/03/2025    | [Claim Now](https://galxe.com/linera/airdrop)          |
-| **Initia Account Migration** | Unknown Reward | 18/03/2025    | [Claim Now](https://initia.io/airdrop)                 |
 | **OKX Crypto Arena**      | USDT             | 03/04/2025    | [Claim Now](https://okx.com/crypto-arena/airdrop)      |
 | **Farcaster**             | Early Bird       | Ongoing       | [Claim Now](https://farcaster.io/airdrop)              |
 | **Monad**                 | Tokens           | Ongoing       | [Claim Now](https://monad.io/airdrop)                  |
